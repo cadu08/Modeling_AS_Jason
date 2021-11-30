@@ -17,7 +17,7 @@
 
 ---
 
-As in prospecting for gold, a scientist may dig with skill, courage, energy and intelligence just a few feet away from a rich vein - but always unsuccessfully. Consequently in scientific research the rewards for industry, perseverance, imagination and intelligence are highly uncertain. [^2]
+As in prospecting for gold, a scientist may dig with skill, courage, energy and intelligence just a few feet away from a rich vein - but always unsuccessfully. Consequently in scientific research the rewards for industry, perseverance, imagination and intelligence are highly uncertain. [2]
 
 ---
 
@@ -62,7 +62,7 @@ Therefore, for analogy, the proposition <P> is also true/false to <C2>.
 
 ---
 
-As in prospecting for gold, a scientist may dig with skill, courage, energy and intelligence just a few feet away from a rich vein - but always unsuccessfully. Consequently in scientific research the rewards for industry, perseverance, imagination and intelligence are highly uncertain. [^3]
+As in prospecting for gold, a scientist may dig with skill, courage, energy and intelligence just a few feet away from a rich vein - but always unsuccessfully. Consequently in scientific research the rewards for industry, perseverance, imagination and intelligence are highly uncertain. [2]
 
 ---
 
@@ -75,5 +75,7 @@ defeasible_rule(correct(P,C2),[similar(C1,C2),correct(P,C1),similarity(S)])[as(a
 > Argument in natural language
 
 ```html
-There are/is <S> as a similarity between <C1> and <C2>. This similarity is relevant to conclude that if the sentence <P> is true for <C1>, probably this sentence will be true for <C2> too.
+There are/is <S> as a similarity between <C1> and <C2>. 
+This similarity is relevant to conclude that if the sentence <P> is true for <C1>, 
+probably this sentence will be true for <C2> too.
 ```
