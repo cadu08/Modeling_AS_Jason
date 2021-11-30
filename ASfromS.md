@@ -1,4 +1,4 @@
-## Argument from sign
+## Argument from Sign
 
 <table>
   <tr>
