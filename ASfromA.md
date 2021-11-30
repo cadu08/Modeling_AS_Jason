@@ -1,4 +1,4 @@
-## Argument from analogy (version 1)
+## Argument from Analogy (version 1)
 
 <table>
   <tr>
@@ -39,7 +39,7 @@ Therefore, for analogy, the proposition <P> is also true/false to <C2>.
 
 
 
-## Argument from analogy (version 2)
+## Argument from Analogy (version 2)
 
 <table>
   <tr>
