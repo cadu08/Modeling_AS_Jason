@@ -17,7 +17,7 @@
 
 ---
 
-The major premise is a conditional statement that if A is true, then generally, but subject to exceptions, B is also true. This generalization is defeasible. The tracks could have been planted on the trail by tricksters. But in the absence of evidence of some trickery, it is reasonable to provisionally draw the conclusion that a bear passed along the trail. [^1]
+The major premise is a conditional statement that if A is true, then generally, but subject to exceptions, B is also true. This generalization is defeasible. The tracks could have been planted on the trail by tricksters. But in the absence of evidence of some trickery, it is reasonable to provisionally draw the conclusion that a bear passed along the trail [^1].
 
 ---
 
@@ -35,3 +35,4 @@ There are <A_Marks> on the <B>. Therefore, a <A> passed along the <B>.
 ```
 
 
+[^1]: WALTON, D.; REED, C.; MACAGNO, F. Argumentation Schemes. Cambridge University Press. p.10. 2008. 
