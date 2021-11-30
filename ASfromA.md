@@ -17,7 +17,7 @@
 
 ---
 
-As in prospecting for gold, a scientist may dig with skill, courage, energy and intelligence just a few feet away from a rich vein - but always unsuccessfully. Consequently in scientific research the rewards for industry, perseverance, imagination and intelligence are highly uncertain [1].
+As in prospecting for gold, a scientist may dig with skill, courage, energy and intelligence just a few feet away from a rich vein - but always unsuccessfully. Consequently in scientific research the rewards for industry, perseverance, imagination and intelligence are highly uncertain [^1].
 
 ---
 
@@ -62,7 +62,7 @@ Therefore, for analogy, the proposition <P> is also true/false to <C2>.
 
 ---
 
-As in prospecting for gold, a scientist may dig with skill, courage, energy and intelligence just a few feet away from a rich vein - but always unsuccessfully. Consequently in scientific research the rewards for industry, perseverance, imagination and intelligence are highly uncertain [1].
+As in prospecting for gold, a scientist may dig with skill, courage, energy and intelligence just a few feet away from a rich vein - but always unsuccessfully. Consequently in scientific research the rewards for industry, perseverance, imagination and intelligence are highly uncertain [^1].
 
 ---
 
@@ -79,3 +79,5 @@ There are/is <S> as a similarity between <C1> and <C2>.
 This similarity is relevant to conclude that if the sentence <P> is true for <C1>, 
 probably this sentence will be true for <C2> too.
 ```
+
+[^1]: WALTON, D.; REED, C.; MACAGNO, F. Argumentation Schemes. Cambridge University Press. p.10. 2008. 
