@@ -21,14 +21,14 @@ The major premise is a conditional statement that if A is true, then generally, 
 
 ---
 
-> Argument in formal language
+### Argument in formal language
 
 ```javascript
 defeasible_rule(passed(A,B),[there_are(A_Marks,B)])[as(from_sign)].
     cq(cq1, not planted(A_Marks)).
 ```
 
-> Argument in natural language
+### Argument in natural language
 
 ```html
 There are <A_Marks> on the <B>. Therefore, a <A> passed along the <B>.
