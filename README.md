@@ -4,8 +4,8 @@
 
  <br/>
  
- - [Argument from Sign](https://github.com/cadu08/Modeling_AS_Jason/blob/main/ASfromS.md) [^1]
- - [Argument from Analogy](https://github.com/cadu08/Modeling_AS_Jason/blob/main/ASfromA.md) [^1]
+ - [Argument from Sign](https://github.com/cadu08/Modeling_AS_Jason/blob/main/AS/ASfromS.md) [^1]
+ - [Argument from Analogy](https://github.com/cadu08/Modeling_AS_Jason/blob/main/AS/ASfromA.md) [^1]
 
 
 
