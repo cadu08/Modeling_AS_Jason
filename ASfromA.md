@@ -30,7 +30,8 @@ defeasible_rule(correct(P,C2),[similar(C1,C2),correct(P,C1)])[as(argument_from_a
 > Argument in natural language
 
 ```html
-The proposition <P> is true/false to <C1>. It’s known that <C1> and <C2> are similar. Therefore, for analogy, the proposition <P> is also true/false to <C2>.
+The proposition <P> is true/false to <C1>. It’s known that <C1> and <C2> are similar. 
+Therefore, for analogy, the proposition <P> is also true/false to <C2>.
 ```
 
 
