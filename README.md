@@ -6,12 +6,8 @@
  
  - [Argument from Sign](https://github.com/cadu08/Modeling_AS_Jason/blob/main/AS/ASfromS.md) [^1]
  - [Argument from Analogy](https://github.com/cadu08/Modeling_AS_Jason/blob/main/AS/ASfromA.md) [^1]
-
-
-
-
-
+ - [Argument from an Established Rule](https://github.com/cadu08/Modeling_AS_Jason/blob/main/AS/ASfromER.md) [^1]
 
 <br/> <br/>
 
-[^1]: WALTON, D.; REED, C.; MACAGNO, F. Argumentation Schemes. Cambridge University Press. p.10. 2008. 
+[^1]: WALTON, D.; REED, C.; MACAGNO, F. Argumentation Schemes. Cambridge University Press. 2008. 
