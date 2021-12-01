@@ -1,4 +1,4 @@
-## Argument from a Exceptional Case
+## Argument from an Established Rule
 
 <table>
   <tr>
