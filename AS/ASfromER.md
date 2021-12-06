@@ -34,10 +34,10 @@ The last critical question concerns the problem of the exceptional case. It is t
 ### Argument in formal language
 
 ```javascript
-defeasible_rule(carry_out(X,A),[rule(X,A)])[as(exceptional_case)].
-		cq(cq1, requirements_rule(A))[as(exceptional_case)].
-		cq(cq2, not conflicting_rule(B))[as(exceptional_case)].
-		cq(cq2, not excuses(E))[as(exceptional_case)].
+defeasible_rule(carry_out(X,A),[rule(X,A)])[as(from_established_rule)].
+		cq(cq1, requirements_rule(A))[as(from_established_rule)].
+		cq(cq2, not conflicting_rule(B))[as(from_established_rule)].
+		cq(cq2, not excuses(E))[as(from_established_rule)].
 ```
 
 ### Argument in natural language
