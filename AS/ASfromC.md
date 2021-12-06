@@ -17,7 +17,7 @@
 
 ---
 
-Arguments from classification are based on two main components: the description, or presentation, of the facts or events; and their classification, proceeding from properties presented in the definition itself. 
+Arguments from classification are based on two main components: the description, or presentation, of the facts or events; and their classification, proceeding from properties presented in the definition itself.[^1]
 
 ---
 
