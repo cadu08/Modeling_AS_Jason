@@ -44,7 +44,7 @@ defeasible_rule(property(A,F),[categorie(A,C),property(C,F)])[as(from_verbal_cla
 ### Argument in natural language
 
 ```html
-All <C> is <F>. <A> is <C>. Therefore, <A> is <F>.
+All <C> is <F>. <A> can be classified as <C>. Therefore, <A> is <F>.
 ```
 
 ### Example adapted from Walton's book
