@@ -10,7 +10,7 @@
  - [Argument from a Verbal Classification](https://github.com/cadu08/Modeling_AS_Jason/blob/main/AS/ASfromVC.md)
  - [Argument From Analogy Based on Classification](https://github.com/cadu08/Modeling_AS_Jason/blob/main/AS/ASfromAbC.md)
  - [Argument from an Established Rule](https://github.com/cadu08/Modeling_AS_Jason/blob/main/AS/ASfromER.md)
- - [Argument from an Exceptional Case](https://github.com/cadu08/Modeling_AS_Jason/blob/main/AS/ASfromEC.mdS)
+ - [Argument from an Exceptional Case](https://github.com/cadu08/Modeling_AS_Jason/blob/main/AS/ASfromEC.md)
 
 <br/> <br/>
 
