@@ -6,11 +6,10 @@
  
  - [Argument from Sign](https://github.com/cadu08/Modeling_AS_Jason/blob/main/AS/ASfromS.md)
  - [Argument from Analogy](https://github.com/cadu08/Modeling_AS_Jason/blob/main/AS/ASfromA.md)
- - [Argument from an Established Rule](https://github.com/cadu08/Modeling_AS_Jason/blob/main/AS/ASfromER.md)
  - [Argument from Classification](https://github.com/cadu08/Modeling_AS_Jason/blob/main/AS/ASfromC.md)
  - [Argument from a Verbal Classification](https://github.com/cadu08/Modeling_AS_Jason/blob/main/AS/ASfromVC.md)
- - [Argument from a Verbal Classification](https://github.com/cadu08/Modeling_AS_Jason/blob/main/AS/ASfromVC.md)
  - [Argument From Analogy Based on Classification](https://github.com/cadu08/Modeling_AS_Jason/blob/main/AS/ASfromAbC.md)
+ - [Argument from an Established Rule](https://github.com/cadu08/Modeling_AS_Jason/blob/main/AS/ASfromER.md)
 
 <br/> <br/>
 
