@@ -56,5 +56,5 @@ The <A> was established for <X>. Therefore, the <X> must carry out <A>.
 **_obs:_** The student reply elucidates the argumentation scheme _known as argument from an exceptional case_.[^2]  
 
 
-[^1]: WALTON, D.; REED, C.; MACAGNO, F. Argumentation Schemes. Cambridge University Press. p.81. 2008. 
+[^1]: WALTON, D.; REED, C.; MACAGNO, F. Argumentation Schemes. Cambridge University Press. p.71. 2008. 
 [^2]: WALTON, D. Argument Structure: A Pragmatic Theory. Department of Philosophy. University of Winnipeg. p.92. Canada. 1996.
