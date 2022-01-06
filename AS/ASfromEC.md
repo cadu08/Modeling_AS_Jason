@@ -25,7 +25,7 @@ This form of argument is based on argument from verbal classification. The class
 
 ### Critical Questions
 ```html
-CQ1:  Is the case of A a recognized type of exception?
+CQ1: Is the case of A a recognized type of exception?
 CQ2: If it is not a recognized case, can evidence why the established rule does not apply to it be given?
 CQ3: If it is a borderline case, can comparable cases be cited?
 ```
