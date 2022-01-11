@@ -1,5 +1,5 @@
 The practical counterpart to the scheme for argument from analogy is practical reasoning from analogy. 
-The similarity of two situations in some respects is considered a reason to act in a similar way.
+The similarity of two situations in some respects is considered a reason to act in a similar way.[^1]
 
 ---
 
