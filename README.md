@@ -12,6 +12,7 @@
  - [Argument from an Established Rule](https://github.com/cadu08/Modeling_AS_Jason/blob/main/AS/ASfromER.md)
  - [Argument from an Exceptional Case](https://github.com/cadu08/Modeling_AS_Jason/blob/main/AS/ASfromEC.md)
  - [Refutation Scheme for Argument from Precedent](https://github.com/cadu08/Modeling_AS_Jason/blob/main/AS/RAS4A4rmP.md)
+ - [Positive/Negative Scheme for Practical Argument from Analogy](https://github.com/cadu08/Modeling_AS_Jason/blob/main/AS/PNS4PA4rmA.md)
 
 <br/> <br/>
 
