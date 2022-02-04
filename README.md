@@ -19,8 +19,12 @@
 
 # Argumentation Schemes for Bed Allocation in Hospitals [^2] [^3] [^4]
 
-[^1]: WALTON, D.; REED, C.; MACAGNO, F. Argumentation Schemes. Cambridge University Press. 2008.
+## List of Argumentation Schemes: 
 
+ - [List of Bed Aloccation Arguments](https://github.com/cadu08/Modeling_AS_Jason/blob/main/AS/AS_BedAllocation.md)
+
+
+[^1]: WALTON, D.; REED, C.; MACAGNO, F. Argumentation Schemes. Cambridge University Press. 2008.
 [^2]: Engelmann,D.;Couto,J.;Gabriel,V.;Vieira,R.; and Bordini,R. 2019. Towards an ontology to support decision-making in hospital bed allocation. InProceedings of 31st International Conference on Software Engineering & Knowledge Engineering, 71–74.
 [^3]: Engelmann,D.C.;Cezar,L.D.;Panisson,A.R.; and Bordini, R. H. 2021c. A conversational agent to support hos-pital bed allocation. In Britto,A., and Valdivia  Delgado,K., eds.,Intelligent Systems, 3–17. Cham: Springer International Publishing.
 [^4]: Engelmann, D. C. 2019.An interactive agent to support hos-pital bed allocation based on plan validation.  dissertation,Pontif ́ıcia Universidade Cat ́olica do Rio Grande do Sul.
