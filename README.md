@@ -19,7 +19,7 @@
 
 # Argumentation Schemes for Bed Allocation in Hospitals [^2] [^3] [^4]
 
-## List of Argumentation Schemes: 
+<br>
 
  - [List of Bed Aloccation Arguments](https://github.com/cadu08/Modeling_AS_Jason/blob/main/AS/AS_BedAllocation.md)
 
