@@ -5,8 +5,7 @@
 
 ## Argument from inconsistent commitment
 
-"[...] The inconsistency often follows from the proponent's past statements or actions that the opponent brings to light through questioning. In this argumentation, a previously hidden inconsistency may be brought to 
-the surface. In other cases, however, the inconsistency can easily be detected in an arguer's commitment set." The following is the scheme for *argument from inconsistent commitment*: [^1]
+"[...] The inconsistency often follows from the proponent's past statements or actions that the opponent brings to light through questioning. In this argumentation, a previously hidden inconsistency may be brought to the surface. In other cases, however, the inconsistency can easily be detected in an arguer's commitment set." The following is the scheme for *argument from inconsistent commitment*: [^1]
 
 ```
 'a' is committed to proposition 'A' (generally, or in virtue of what she has said in the past).
@@ -53,7 +52,7 @@ CQ6: Is the condusion the weaker claim that 'a''s credibility is open to questio
 
 "The pragmatic inconsistency introduces a problem, different from one posed by logical inconsistency, of interpretation of
  actions that the commitments supposedly imply. The opposition is not between commitments following from statements, but 
- between present positions adopted and the implications of past commitments or actions."[^1] The following scheme represents 
+ between present positions adopted and the implications of past commitments or actions."[^2] The following scheme represents 
  the general form of the *argument from pragmatic inconsistency*:
 
 ```
@@ -85,7 +84,7 @@ CQ6: Is the condusion the weaker claim that 'a''s credibility is open to questio
 The double standard argument may be considered a subspecies of argument from pragmatic inconsistency. In this argument, there is an alleged incoherence
 in the policies adopted with respect to two similar cases: the agent, choosing two incompatible courses of action in two similar situations, is presented
 as supporting or defending conflicting commitments. The double standard argument may be classified, for this reason, as a species of argument from pragmatic
-inconsistency. The following is the scheme *argument from doubk standard*:
+inconsistency. [^3] The following is the scheme *argument from doubk standard*:
 
 ```
   The respondent has one policy with respect to 'a'.
@@ -105,3 +104,6 @@ inconsistency. The following is the scheme *argument from doubk standard*:
        that the respondent's policies are not consistent in some important way?
 ```
 
+[^1]: WALTON, D.; REED, C.; MACAGNO, F. Argumentation Schemes. Cambridge University Press. p.136. 2008.
+[^2]: WALTON, D.; REED, C.; MACAGNO, F. Argumentation Schemes. Cambridge University Press. p.137. 2008.
+[^2]: WALTON, D.; REED, C.; MACAGNO, F. Argumentation Schemes. Cambridge University Press. p.139. 2008.
