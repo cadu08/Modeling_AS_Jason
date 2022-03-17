@@ -15,6 +15,7 @@
  - [Positive/Negative Scheme for Practical Argument from Analogy](https://github.com/cadu08/Modeling_AS_Jason/blob/main/AS/PNS4PA4rmA.md)
  - [Necessary Condition Schema](https://github.com/cadu08/Modeling_AS_Jason/blob/main/AS/AS_NC.md)
  - [Argument from Witness Testemony](https://github.com/cadu08/Modeling_AS_Jason/blob/main/AS/ASfromWT.md)
+ - [Arguments from Inconsistency](https://github.com/cadu08/Modeling_AS_Jason/blob/main/AS/ASfromI.md)
 
 <br/> <br/>
 
