@@ -37,12 +37,12 @@ CQ4: How plausible is the statement A asserted by the witness?
 ### Argument in formal language
 
 ```javascript
-defeasible_rule(plausible(A,BOOLEAN),[position_to_know(W,A),is_telling_the_truth(W),statement(W,A,BOOLEAN)])[as(as4wt)].
-  cq(cq1, is_internally_consistent(A,BOOLEAN))[as(as4wt)].
-  cq(cq2, is_consistent_with_the_facts(A,BOOLEAN))[as(as4wt)].
-  cq(cq3, is_consistent_with_other_testemonies(A,BOOLEAN))[as(as4wt)].
-  cq(cq4, not there_is_some_bias(W,A,BOOLEAN))[as(as4wt)].
-  cq(cq5, not how_plausible_is_witness_statement(W,low))[as(as4wt)].
+defeasible_rule(plausible(A),[position_to_know(W,A),is_telling_the_truth(W),statement(W,A)])[as(as4wt)].
+  cq(cq1, is_internally_consistent(A))[as(as4wt)].
+  cq(cq2, is_consistent_with_the_facts(A))[as(as4wt)].
+  cq(cq3, is_consistent_with_other_testemonies(A))[as(as4wt)].
+  cq(cq4, not there_is_some_bias(W,A))[as(as4wt)].
+  cq(cq5, not how_plausible_is_witness_statement(W))[as(as4wt)].
 ```
 
 ### Argument in natural language
